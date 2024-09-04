@@ -1,0 +1,17 @@
+{
+  "name": "test-cursor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sparticuz/chromium": "^127.0.0",
+    "aws-sdk": "^2.1688.0",
+    "puppeteer-core": "^23.2.2"
+  }
+}
